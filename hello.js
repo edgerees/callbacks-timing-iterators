@@ -31,3 +31,37 @@ console.log(sayHello('crew'));
 }
 }
 console.log(sayHello('squad'));
+
+function sayHello(name) {
+    let msg = 'hello ' + name+ '. How are you?';
+    return msg;
+}
+console.log(sayHello('Bobby'));
+
+function sayHello(name) {
+    let msg = 'hello ' + name+ '. How are you?';
+    return msg;
+}
+console.log(sayHello('GA'));
+
+
+function sayHello(name) {
+    let msg = 'hello ' + name+ '. How are you?';
+    return msg;
+}
+console.log(sayHello('dreamteam'));
+
+
+{function sayHello(name) {
+    let msg = 'hello ' + name+ '. How are you?';
+    return msg;
+}
+}
+console.log(sayHello('teamates'));
+
+{function sayHello(name) {
+    let msg = 'hello ' + name+ '. How are you?';
+    return msg;
+}
+}
+console.log(sayHello('friend'));
